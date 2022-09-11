@@ -1,4 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+}
 .banner{
     background-size: cover;
     height: 100vh;
+}
+.box{
+    height: 100px;
+    background-color: #005cbf;
+    margin: 5px 0;
 }
